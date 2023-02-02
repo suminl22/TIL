@@ -2,20 +2,20 @@
 ### Daily Commit 시작! from 20230202<br><br>
 
 ## Now, I'm in Web Development<br>
-###### Front-end
+### Front-end
 1. HTML, CSS<br>
 2. JS<br>
-> Project 1 : Portfolio Website<br>
+> Project 1 : Portfolio Website
 3. React (+BootStrap)<br>
-> Project 2 : Clone-Coding - Instagram<br>
+> Project 2 : Clone-Coding - Instagram
 <br>
-###### Back-end
+### Back-end
 1. Server : jQuery, Node.js(+ Express.js)<br>
 2. DB : MongoDB, SQL<br>
-> Project 3 : Blog Website<br>
+> Project 3 : Blog Website
 3. Authentication & Security<br>
 4. Deploy<br>
-> Project 4 : Clone-Coding - ???<br>
+> Project 4 : Clone-Coding - ???
 ---
 <br><br>
 
@@ -31,9 +31,9 @@
 <br><br><br>
 ## I'm also interested in Python using APIs
 <Toy Project>
-/*곧 채울것!*/
-1.
-2.
-3.
+/*곧 채울것!*/<br>
+1.<br>
+2.<br>
+3.<br>
 <br><br>
 
