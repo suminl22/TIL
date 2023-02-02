@@ -1,21 +1,21 @@
-# 오늘공부 기록용<br>
-# Daily Commit 시작! from 20230202<br><br>
+### 오늘공부 기록용<br>
+### Daily Commit 시작! from 20230202<br><br>
 
 ## Now, I'm in Web Development<br>
-<Front-end>
-1. HTML, CSS
-2. JS
->** Project 1 : Portfolio Website**
-3. React (+BootStrap)
->** Project 2 : Clone-Coding - Instagram**
+######<Front-end>
+1. HTML, CSS<br>
+2. JS<br>
+> Project 1 : Portfolio Website<br>
+3. React (+BootStrap)<br>
+> Project 2 : Clone-Coding - Instagram<br>
 ---
-<Back-end>
-4. Server : jQuery, Node.js(+ Express.js)
-5. DB : MongoDB, SQL
->** Project 3 : Blog Website**
-6. Authentication & Security
-7. Deploy
->**Project 4 : Clone-Coding - ???**
+######<Back-end>
+4. Server : jQuery, Node.js(+ Express.js)<br>
+5. DB : MongoDB, SQL<br>
+> Project 3 : Blog Website<br>
+6. Authentication & Security<br>
+7. Deploy<br>
+>Project 4 : Clone-Coding - ???<br>
 ---
 <br><br>
 
