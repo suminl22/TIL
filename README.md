@@ -9,9 +9,10 @@
 3. React (+BootStrap)<br>
 > Project 2 : Clone-Coding - Instagram
 <br>
-### Back-end
+
+### Back-end  
 1. Server : jQuery, Node.js(+ Express.js)<br>
-2. DB : MongoDB, SQL<br>
+2. DB : MongoDB, SQL<br>  
 > Project 3 : Blog Website
 3. Authentication & Security<br>
 4. Deploy<br>
