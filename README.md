@@ -2,20 +2,20 @@
 ### Daily Commit 시작! from 20230202<br><br>
 
 ## Now, I'm in Web Development<br>
-######<Front-end>
+###### Front-end
 1. HTML, CSS<br>
 2. JS<br>
 > Project 1 : Portfolio Website<br>
 3. React (+BootStrap)<br>
 > Project 2 : Clone-Coding - Instagram<br>
 <br>
-######<Back-end>
-4. Server : jQuery, Node.js(+ Express.js)<br>
-5. DB : MongoDB, SQL<br>
+###### Back-end
+1. Server : jQuery, Node.js(+ Express.js)<br>
+2. DB : MongoDB, SQL<br>
 > Project 3 : Blog Website<br>
-6. Authentication & Security<br>
-7. Deploy<br>
->Project 4 : Clone-Coding - ???<br>
+3. Authentication & Security<br>
+4. Deploy<br>
+> Project 4 : Clone-Coding - ???<br>
 ---
 <br><br>
 
