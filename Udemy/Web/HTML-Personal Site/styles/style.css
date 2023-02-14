@@ -1,0 +1,21 @@
+*{
+    background-color: bisque;
+}
+
+hr{
+    /* 테두리 (가로)길이*/
+    width: 10%;
+    /* 테두리 모양*/
+    /* border-style: dotted none none none; */
+    border-style: none;
+    border-top: dotted;
+    /* 테두리 색깔 */
+    border-color: gray;
+    /* 테두리 굵기 */
+    border-width: 5px;
+}
+
+h1, h3{
+    color: salmon;
+}
+
